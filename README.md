@@ -1,4 +1,4 @@
-# ML-Project
+# ML-Project - F1 Grand Prix Winner Predictor
 Machine Learning Project for predicting results for F1 Grand Prix races
 
 Dataset: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
